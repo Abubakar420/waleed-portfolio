@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { NavLink } from "react-router-dom";
 import Button from "./Button";
-import aboutMeImg from "../images/profileLook.png";
+import aboutMeImg from "../images/abubakarprofile.jpg";
 
 /**
  * Represents the About Me section.
