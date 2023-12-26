@@ -24,7 +24,7 @@ const SocialIcons = () => {
       <a
         className="icon"
         style={styles.icon}
-        href="https://github.com/Abubakar420"
+        href="https://github.com/MuhammadWaleedAbid"
       >
         {/* GitHub Icon */}
         <motion.i
@@ -33,13 +33,13 @@ const SocialIcons = () => {
           transition={{ delay: 1.8, duration: 0.5, type: "spring" }}
           className="fa-brands fa-github"
           aria-hidden="true"
-          title="Abubakar Rehman' GitHub Profile"
+          title="Waleed Abid' GitHub Profile"
         ></motion.i>
       </a>
       <a
         className="icon"
         style={styles.icon}
-        href="https://www.linkedin.com/in/abubakar-rehman-53439b279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        href="https://www.linkedin.com/in/waleed-abid-73ba23231/"
       >
         {/* LinkedIn Icon */}
         <motion.i
@@ -48,13 +48,13 @@ const SocialIcons = () => {
           transition={{ delay: 1.7, duration: 0.5, type: "spring" }}
           className="fa-brands fa-linkedin"
           aria-hidden="true"
-          title="Abubakar Rehman' LinkedIn Profile"
+          title="Waleed Abid' LinkedIn Profile"
         ></motion.i>
       </a>
       <a
         className="icon"
         style={styles.icon}
-        href="https://www.instagram.com/its_mee_abubakar?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
+        href="https://www.instagram.com/waleed___.abid"
       >
         {/* Instagram Icon */}
         <motion.i
@@ -63,10 +63,10 @@ const SocialIcons = () => {
           transition={{ delay: 1.6, duration: 0.5, type: "spring" }}
           className="fa-brands fa-instagram"
           aria-hidden="true"
-          title="Abubakar Rehman' Instagram Profile"
+          title="Waleed Abid' Instagram Profile"
         ></motion.i>
       </a>
-      <a className="icon" style={styles.icon} href="https://wa.me/923204585635">
+      <a className="icon" style={styles.icon} href="https://wa.me/923051815349">
         {/* Twitter Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
@@ -74,7 +74,7 @@ const SocialIcons = () => {
           transition={{ delay: 1.5, duration: 0.5, type: "spring" }}
           className="fa-brands fa-whatsapp"
           aria-hidden="true"
-          title="Abubakar Rehman' Twitter Profile"
+          title="Waleed Abid' Twitter Profile"
         ></motion.i>
       </a>
     </div>

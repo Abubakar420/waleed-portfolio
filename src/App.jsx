@@ -38,9 +38,9 @@ import PageNotFound from "./pages/404/PageNotFound";
 function App() {
   // Personal details for the user
   const personalDetails = {
-    name: "Abubakar Rehman",
+    name: "Waleed Abid",
     location: "🇵🇰 Pakistan",
-    email: "abubakarrehman395@gmail.com",
+    email: "waleedabid0311@gmail.com",
     brand:
       "My unique blend of technical expertise, creative thinking, and background in psychology allows me to approach each project with a deep understanding of the end user's perspective, resulting in highly effective user-centred digital products.",
   };
@@ -66,7 +66,7 @@ function App() {
     // Handle document title change when tab visibility changes
     const handleTabChange = () => {
       if (document.hidden) {
-        document.title = "👋🏻 Abubakar Rehman !";
+        document.title = "👋🏻 Waleed Abid !";
       } else {
         document.title = originalTitle;
       }
