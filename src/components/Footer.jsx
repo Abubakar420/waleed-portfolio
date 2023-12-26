@@ -14,7 +14,7 @@ const Footer = () => {
     <footer>
       <SocialIcons />
 
-      <a className="footer-link" href="https://github.com/Abubakar420">
+      <a className="footer-link" href="https://wa.me/923204585635">
         <p>
           <span>▷</span> Designed and built by Abubakar Rehman &copy;{" "}
           {currentYear}

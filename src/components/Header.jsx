@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { NavLink } from "react-router-dom";
 // import logo from "../images/logo.svg";
-import logo from "../images/ARlogo.png";
+import logo from "../images/wf.png";
 
 import NavLinks from "./NavLinks";
 
