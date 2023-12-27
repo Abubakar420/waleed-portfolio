@@ -14,7 +14,7 @@ const Footer = () => {
     <footer>
       <SocialIcons />
 
-      <a className="footer-link" href="https://wa.me/923204585635">
+      <a className="footer-link" href="https://wa.me/923114920140">
         <p>
           <span>▷</span> Designed and built by Waleed Abid &copy; {currentYear}
         </p>
