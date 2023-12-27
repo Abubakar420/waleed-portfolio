@@ -16,8 +16,7 @@ const Footer = () => {
 
       <a className="footer-link" href="https://wa.me/923204585635">
         <p>
-          <span>▷</span> Designed and built by Abubakar Rehman &copy;{" "}
-          {currentYear}
+          <span>▷</span> Designed and built by Waleed Abid &copy; {currentYear}
         </p>
       </a>
     </footer>
